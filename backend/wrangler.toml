@@ -1,0 +1,8 @@
+name = "medium"
+main = "src/index.ts"
+compatibility_date = "2024-11-05"
+
+# compatibility_flags = [ "nodejs_compat" ]
+  JWT_SECRET= "ansh1"
+ [vars]
+ DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZjVjMjJiMmUtN2UyZC00MGJmLTgwMGUtM2Y4NTlkMGQ3YWZiIiwidGVuYW50X2lkIjoiMGU5NTVhNzExNzNmNDk1NjFkYmEwNTE2YzUzOWU1NzRlN2Q4NDAxZTdkZDAxY2E3MzUyY2NhMjkxNmE4ZWU5YyIsImludGVybmFsX3NlY3JldCI6IjA0NGE2YjMzLThiNmItNDc0OS04NTU5LWQyNzk3MWIwNzIyNyJ9.DA-v7c28EebqQXoQmB5_2NhYohsTEB9U3dpBrLOhsks"
